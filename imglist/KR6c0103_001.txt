@@ -1,0 +1,3 @@
+001-0783b00	T 001-0783b	buddhist/T-taisho/T40/07/T40-0783.png
+001-0783c00	T 001-0783c	buddhist/T-taisho/T40/07/T40-0783.png
+001-0784a00	T 001-0784a	buddhist/T-taisho/T40/07/T40-0784.png
